@@ -1,1 +1,1 @@
-ifconfig -l
+/sbin/ifconfig -l
